@@ -70,7 +70,7 @@ async def inline_query_handler(bot, inline_query):
                     for id, item in enumerate(result, start=1):
                         results.append(
                             InlineQueryResultPhoto(
-                                photo_url="https://te.legra.ph/file/8dfa3760df91a218a629c.jpg"
+                                photo_url="https://telegra.ph/file/e8ada1212b1ffde91a284.jpg"
                                 if result[item]["coverurl"] is None
                                 else result[item]["coverurl"],
                                 title=result[item]["title"],
@@ -107,7 +107,7 @@ async def inline_query_handler(bot, inline_query):
                             )
                         )
                         DATA[inline_query.from_user.id][id] = {
-                            "thumb": "https://te.legra.ph/file/8dfa3760df91a218a629c.jpg"
+                            "thumb": "https://telegra.ph/file/e8ada1212b1ffde91a284.jpg"
                             if result[item]["coverurl"] is None
                             else result[item]["coverurl"],
                             "caption": f"MD5: {result[item]['md5']}\n"
