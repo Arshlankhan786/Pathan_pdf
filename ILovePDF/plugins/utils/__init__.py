@@ -4,7 +4,7 @@
 
 __author__ = "nabilanavab"
 __email__ = "nabilanavab@gmail.com"
-__telegram__ = "telegram.dog/nabilanavab"
+__telegram__ = "telegram.dog/Pathanbotz"
 __copyright__ = "Copyright 2021, nabilanavab"
 
 iLovePDF = '''
