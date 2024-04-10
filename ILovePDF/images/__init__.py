@@ -5,7 +5,7 @@ file_name = "ILovePDF/images/__init__.py"
 
 __author__ = "nabilanavab"
 __email__ = "nabilanavab@gmail.com"
-__telegram__ = "telegram.dog/nabilanavab"
+__telegram__ = "telegram.dog/Pathan_botz"
 __copyright__ = "Copyright 2021, nabilanavab"
 
 iLovePDF = '''
@@ -15,7 +15,7 @@ iLovePDF = '''
  |_| |___,\___/\_/\___| |_|  |___/|_|    
                          ❤ [Nabil A Navab] 
                          ❤ Email: nabilanavab@gmail.com
-                         ❤ Telegram: @nabilanavab
+                         ❤ Telegram: @Flipkartlootzs
 '''
 
 # If you have any questions or suggestions, please feel free to reach out.
