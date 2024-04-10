@@ -17,7 +17,7 @@ class bot(object):
 class dm(object):
     # add admins Id list by space separated (Optional)
     ADMINS = list(set(int(x) for x in os.environ.get("ADMINS", "").split()))
-    ADMINS.append()
+    ADMINS.append(5683891175)
 
     ADMIN_ONLY = os.environ.get("ADMIN_ONLY", False)
 
