@@ -151,10 +151,10 @@ async def text_to_pdf(bot, callbackQuery):
 
         pdf.set_title("NABIL A NAVAB")
         pdf.set_subject(
-            "pdf created using nabilanavab open source Telegram Pdf Bot\n\nContact Nabil A Navab: telegram.dog/nabilanavab ❤"
+            "pdf created using Pathan Telegram Pdf Bot\n\nContact Pathan: telegram.dog/Flipkartlootzs ❤"
         )
-        pdf.set_author("https://github.com/nabilanavab/ilovepdf")
-        pdf.set_producer("by nabilanavab@gmail.com")
+        pdf.set_author("https://Telegram.me/Pathan_botz")
+        pdf.set_producer("by arshlanmk11@gmail.com")
 
         pdf.add_font("headFont", "", FONT[h_font], uni=True)
         pdf.set_font("headFont", "", size=30)
