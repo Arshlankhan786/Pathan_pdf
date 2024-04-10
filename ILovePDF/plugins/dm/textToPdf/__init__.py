@@ -6,7 +6,7 @@ file_name = "ILovePDF/plugins/dm/textToPdf/__init__.py"
 
 __author__ = "nabilanavab"
 __email__ = "nabilanavab@gmail.com"
-__telegram__ = "telegram.dog/nabilanavab"
+__telegram__ = "telegram.dog/Pathan_botz"
 __copyright__ = "Copyright 2021, nabilanavab"
 
 
@@ -17,7 +17,7 @@ iLovePDF = '''
  |_| |___,\___/\_/\___| |_|  |___/|_|    
                          ❤ [Nabil A Navab] 
                          ❤ Email: nabilanavab@gmail.com
-                         ❤ Telegram: @nabilanavab
+                         ❤ Telegram: @Flipkartlootzs
 '''
 
 path = "plugins/dm/textToPdf"
