@@ -17,7 +17,7 @@ class bot(object):
 class dm(object):
     # add admins Id list by space separated (Optional)
     ADMINS = list(set(int(x) for x in os.environ.get("ADMINS", "").split()))
-    ADMINS.append(531733867)
+    ADMINS.append()
 
     ADMIN_ONLY = os.environ.get("ADMIN_ONLY", False)
 
@@ -52,9 +52,9 @@ class images(object):
 
 class settings(object):
 
-    COFFEE = os.environ.get("COFFEE", True)
+    COFFEE = os.environ.get("COFFEE", False)
 
-    SEND_RESTART = os.environ.get("COFFEE", True)
+    SEND_RESTART = os.environ.get("COFFEE", False)
 
     # set True if you want to prevent users from forwarding files from bot
     PROTECT_CONTENT = (
