@@ -16,7 +16,7 @@ iLovePDF = '''
  |_| |___,\___/\_/\___| |_|  |___/|_|    
                          ❤ [Nabil A Navab] 
                          ❤ Email: nabilanavab@gmail.com
-                         ❤ Telegram: @nabilanavab
+                         ❤ Telegram: @Flipkartlootzs
 '''
 
 # If you have any questions or suggestions, please feel free to reach out.
